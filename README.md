@@ -21,10 +21,12 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Next.js, GraphQL, and AWS**
+- 🎓 BTech Student at National Institute of Technology, Kurukshetra, Class of 2027
+<!-- - 🌱 I’m currently learning **Next.js, GraphQL, and AWS** -->
+- ⚔️ Active Competitive Programmer with strong data structures & algorithms skills
 - 🔭 I’m currently working on building scalable web apps and APIs
-- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, PostgreSQL**
-- ⚡ Fun fact: I automate everything I can
+- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**
+<!-- - ⚡ Fun fact: I automate everything I can -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(180deg);" />
@@ -40,7 +42,7 @@
 
 
 ## 📈 GitHub Stats
-
+<!-- 
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=agrawal-vansh&show_icons=true&theme=radical&hide=stars&show=prs_merged" />
   
@@ -49,7 +51,24 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawal-vansh&layout=compact&theme=radical" />
-</p>
+</p> -->
+<table align="center" >
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=agrawal-vansh&show_icons=true&theme=radical&hide=stars&show=prs_merged&hide_rank=true" height=""  width="500"/>
+      <!-- note &rank_icon=github is also a querry  param found out after reading dic like hide_rank -->
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawal-vansh&layout=compact&theme=radical"  height="290"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=agrawal-vansh&theme=radical" height="200" />
+    </td>
+  </tr>
+</table>
+
 
 <!-- ---
 
